@@ -5,6 +5,8 @@ This will be my first serious fullstack app, after the failure that was the E-co
 ## Todos
 
 - [ ] Add Themes: dark and light
+- [ ] Add Navbar Links
+- [x] Make stylish Navbar
 
 ## Logs
 
