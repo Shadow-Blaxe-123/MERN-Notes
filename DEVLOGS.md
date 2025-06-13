@@ -2,7 +2,6 @@
 
 This will be my first serious fullstack app, after the failure that was the E-commerce project. Well not failure per say. I just abandoned the project after building the frontend. I abandoned programming as a whole. Lets hope this goes better.
 
-
 ## Todos
 
 - [ ] Add Themes: dark and light
