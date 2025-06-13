@@ -4,6 +4,7 @@
 // import "./App.css";
 import { Routes, Route } from "react-router";
 import Home from "./pages/Home";
+import Create from "./pages/Create";
 
 function App() {
   // const [count, setCount] = useState(0);
@@ -13,6 +14,7 @@ function App() {
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/create" element={<Create />} />
           {/* <Route path="/notes" element={<Notes />} /> */}
         </Routes>
       </div>
