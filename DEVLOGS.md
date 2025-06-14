@@ -13,7 +13,7 @@ This will be my first serious fullstack app, after the failure that was the E-co
 - [ ] Create Notes Page
 - [ ] Login page
 - [ ] Update Function
-- [ ] Rate limiter
+- [ ] Rate limiter timer when server returns rateLimit is reached.(from status code - 429)
 - [ ] NOtes component
 - [ ] Delete Function
 - [ ] USe Axios To get Data from SQL DB
@@ -26,7 +26,7 @@ This will be my first serious fullstack app, after the failure that was the E-co
 - [ ] Fetch Notes Controller.
 - [ ] Create Notes api.
 - [ ] Create Notes Controller.
-- [ ] Rate limiter middleware. Returns the timer to the frontend.
+- [x] Rate limiter middleware.
 - [ ] Update
 - [ ] Delete
 
