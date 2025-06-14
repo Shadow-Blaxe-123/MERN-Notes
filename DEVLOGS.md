@@ -23,8 +23,6 @@ This will be my first serious fullstack app, after the failure that was the E-co
 
 Of course it was too good to be true. I had to spend hours just to get **Typecript** to get to work. What a way to start the project.
 
-***
-
 ### 13/6/2025
 
 I am starting on the front end because it will be easier, as I have more experience in this side. So I just had to restart the entire front end from scratch because both Tailwind and DaisyUI brand new buggy versions and I installed those at first.
