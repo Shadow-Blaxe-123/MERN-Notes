@@ -32,3 +32,5 @@ So after hours wasting to configure it, I removed DaisyUI. I will stick to raw T
 ### 14/6/2025
 
 Restarting the entire project.
+***
+Alright I have completed the set up for the backend. Time to get started.
