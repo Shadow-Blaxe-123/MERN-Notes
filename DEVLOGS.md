@@ -6,7 +6,16 @@ This will be my first serious fullstack app, after the failure that was the E-co
 
 - [ ] Add Themes: dark and light
 - [ ] Add Navbar Links
-- [x] Make stylish Navbar
+- [ ] Make stylish Navbar
+- [ ] Make home page
+- [ ] Create Notes Page
+- [ ] Login page
+- [ ] Update Function
+- [ ] Rate limiter
+- [ ] NOtes component
+- [ ] Delete Function
+- [ ] USe Axios To get Data from SQL DB
+- [ ] Make backend
 
 ## Logs
 
@@ -21,3 +30,7 @@ Of course it was too good to be true. I had to spend hours just to get **Typecri
 I am starting on the front end because it will be easier, as I have more experience in this side. So I just had to restart the entire front end from scratch because both Tailwind and DaisyUI brand new buggy versions and I installed those at first.
 
 So after hours wasting to configure it, I removed DaisyUI. I will stick to raw Tailwind for now.
+
+### 14/6/2025
+
+Restarting the entire project.
