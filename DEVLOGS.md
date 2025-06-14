@@ -4,6 +4,8 @@ This will be my first serious fullstack app, after the failure that was the E-co
 
 ## Todos
 
+### Frontend
+
 - [ ] Add Themes: dark and light
 - [ ] Add Navbar Links
 - [ ] Make stylish Navbar
@@ -16,6 +18,17 @@ This will be my first serious fullstack app, after the failure that was the E-co
 - [ ] Delete Function
 - [ ] USe Axios To get Data from SQL DB
 - [ ] Make backend
+
+### Backend
+
+- [x] Basic server setup.
+- [ ] Fetch Notes api.
+- [ ] Fetch Notes Controller.
+- [ ] Create Notes api.
+- [ ] Create Notes Controller.
+- [ ] Rate limiter middleware. Returns the timer to the frontend.
+- [ ] Update
+- [ ] Delete
 
 ## Logs
 
@@ -33,4 +46,4 @@ So after hours wasting to configure it, I removed DaisyUI. I will stick to raw T
 
 Restarting the entire project.
 ***
-Alright I have completed the set up for the backend. Time to get started.
+Alright I have completed the set up for the backend. Time to get started. A basic server has been set up.
