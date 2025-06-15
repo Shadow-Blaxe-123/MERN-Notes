@@ -4,10 +4,10 @@ import rateLimit from "express-rate-limit";
 import NotesUpdaterouter from "./routes/NotesUpdate.js";
 import NotesDeleterouter from "./routes/NotesDelete.js";
 import NotesCreaterouter from "./routes/NotesCreate.js";
-import cors from "cors";
+// import cors from "cors";
 
 const app = express();
-app.use(cors());
+// app.use(cors());
 const apiLimiter = rateLimit({
   max: 5,
   windowMs: 60 * 1000,
