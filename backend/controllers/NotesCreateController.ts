@@ -1,8 +1,13 @@
 import { Request } from "express";
 import client from "../server.js";
 
-async function createNotes(req: Request) {
-  const { title, content } = req.body;
+interface NoteInput {
+  title: string;
+  content: string;
+}
+
+async function createNotes(body: NoteInput) {
+  const { title, content } = body;
 
   const query = `INSERT INTO "NotesTable" ("Title", "Content") VALUES ($1, $2) RETURNING *`;
   const values = [title, content];
