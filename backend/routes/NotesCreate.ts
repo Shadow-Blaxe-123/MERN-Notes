@@ -1,9 +1,16 @@
 import express from "express";
+import createNotes from "../controllers/NotesCreateController.js";
 
 const NotesCreaterouter = express.Router();
 
-NotesCreaterouter.get("/", (req, res) => {
-  res.status(200).send("Notes Create Route");
+NotesCreaterouter.post("/", async (req, res) => {
+  try {
+    const response = await createNotes(req);
+    res.status(200).json(response);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: "Failed to create note" });
+  }
 });
 
 export default NotesCreaterouter;
