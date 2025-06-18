@@ -22,6 +22,7 @@ This will be my first serious fullstack app, after the failure that was the E-co
 ### Backend
 
 - [x] Basic server setup.
+- [x] Connect to PostgreSQL
 - [ ] Fetch Notes api.
 - [ ] Fetch Notes Controller.
 - [ ] Create Notes api.
