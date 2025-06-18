@@ -7,6 +7,7 @@ import NotesCreaterouter from "./routes/NotesCreate.js";
 // import cors from "cors";
 
 const app = express();
+app.use(express.json());
 // app.use(cors());
 const apiLimiter = rateLimit({
   max: 5,
