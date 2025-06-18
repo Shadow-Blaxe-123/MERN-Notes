@@ -23,13 +23,15 @@ This will be my first serious fullstack app, after the failure that was the E-co
 
 - [x] Basic server setup.
 - [x] Connect to PostgreSQL
-- [ ] Fetch Notes api.
-- [ ] Fetch Notes Controller.
-- [ ] Create Notes api.
-- [ ] Create Notes Controller.
+- [x] Fetch Notes api.
+- [x] Fetch Notes Controller.
+- [x] Create Notes api.
+- [x] Create Notes Controller.
 - [x] Rate limiter middleware.
-- [ ] Update
-- [ ] Delete
+- [ ] Update Notes Api.
+- [ ] Update Notes Controller.
+- [ ] Delete Notes Api.
+- [ ] Delete Notes Controller.
 
 ## Logs
 
