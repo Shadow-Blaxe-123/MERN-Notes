@@ -11,7 +11,6 @@ This will be my first serious fullstack app, after the failure that was the E-co
 - [ ] Make stylish Navbar
 - [ ] Make home page
 - [ ] Create Notes Page
-- [ ] Login page
 - [ ] Update Function
 - [ ] Rate limiter timer when server returns rateLimit is reached.(from status code - 429)
 - [ ] NOtes component
